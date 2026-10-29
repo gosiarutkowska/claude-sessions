@@ -1,4 +1,4 @@
-# Claude sessions · Sesje Claude
+# Claude Sessions, simply · Sesje Claude, po prostu
 
 **A small macOS window that lists your Claude Code sessions and reopens any of them in your terminal.**
 Free, open source, no account, no telemetry. Polish and English, light and dark.

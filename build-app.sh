@@ -20,8 +20,8 @@ cat > "$APP/Contents/Info.plist" <<'EOF'
   <key>CFBundleExecutable</key><string>ClaudeSessions</string>
   <key>CFBundlePackageType</key><string>APPL</string>
   <key>CFBundleIconFile</key><string>AppIcon</string>
-  <key>CFBundleShortVersionString</key><string>0.1</string>
-  <key>CFBundleVersion</key><string>1</string>
+  <key>CFBundleShortVersionString</key><string>0.2</string>
+  <key>CFBundleVersion</key><string>2</string>
   <key>LSMinimumSystemVersion</key><string>13.0</string>
   <key>NSHighResolutionCapable</key><true/>
   <key>NSAppleEventsUsageDescription</key><string>Otwiera sesje Claude Code w terminalu (iTerm, Terminal) i przełącza na już otwarte okna. / Opens Claude Code sessions in your terminal and switches to open ones.</string>

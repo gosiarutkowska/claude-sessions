@@ -13,7 +13,7 @@ enum L {
 
     static func t(_ pl: String, _ en: String) -> String { isPolish ? pl : en }
 
-    static var appTitle: String { t("Sesje Claude — terminal", "Claude sessions — terminal") }
+    static var appTitle: String { t("Sesje Claude, po prostu", "Claude Sessions, simply") }
     static var archive: String { t("Archiwum", "Archive") }
     static var backToActive: String { t("Wróć do aktywnych", "Back to active") }
     static var refresh: String { t("Odśwież", "Refresh") }
@@ -21,7 +21,7 @@ enum L {
     static var dark: String { t("Ciemny motyw", "Dark theme") }
     static var system: String { t("Motyw jak w systemie", "Match the system") }
     static var language: String { t("Język: polski / angielski / jak w systemie", "Language: Polish / English / system") }
-    static var intro: String { t("Proste zarządzanie Twoimi sesjami Claude.", "Simple management of your Claude sessions.") }
+    static var intro: String { t("Twoje sesje Claude Code, jedno kliknięcie od terminala.", "Your Claude Code sessions, one click from the terminal.") }
     static var introArchive: String {
         t("Archiwum. Rozmowy zostają na dysku, możesz je przywrócić.",
           "Archive. Conversations stay on disk, you can restore them.")
